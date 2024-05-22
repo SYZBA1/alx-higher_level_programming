@@ -21,5 +21,4 @@ Database
 information_schema
 mysql
 performance_schema
-sys
-$ In the container, credentials are root/root
+                                                                          13,45         Top
